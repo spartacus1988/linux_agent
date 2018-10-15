@@ -1,0 +1,16 @@
+<hosts>
+    <item>
+        <host>127.0.0.1</host>
+        <user>alice</user>
+        <password>password</password>
+        <port>22</port>
+        <path_to_private_key>~/.ssh/id_rsa</path_to_private_key>
+    </item>
+    <item>
+        <host>99.99.99.99</host>
+        <user>bob</user>
+        <password>secret</password>
+        <port>22</port>
+        <path_to_private_key>~/.ssh/id_rsa</path_to_private_key>
+    </item>
+<hosts>
