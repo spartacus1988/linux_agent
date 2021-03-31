@@ -17,7 +17,7 @@ idna==2.7
 ifaddr==0.1.4
 invoke==1.2.0
 ipaddress==1.0.22
-lxml==4.2.5
+lxml==4.6.3
 macholib==1.11
 netifaces==0.10.7
 parallel-ssh==1.8.1
