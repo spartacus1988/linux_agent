@@ -21,7 +21,7 @@ lxml==4.2.5
 macholib==1.11
 netifaces==0.10.7
 parallel-ssh==1.8.1
-paramiko==2.4.2
+paramiko==2.10.1
 pbr==4.2.0
 pefile==2018.8.8
 prettytable==0.7.2
